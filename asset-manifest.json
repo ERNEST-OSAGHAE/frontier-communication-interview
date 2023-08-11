@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/frontier-communication-interview/static/css/main.86d45131.css",
+    "main.js": "/frontier-communication-interview/static/js/main.955ececf.js",
+    "static/js/787.c557e8d4.chunk.js": "/frontier-communication-interview/static/js/787.c557e8d4.chunk.js",
+    "static/media/interviewPicture.png": "/frontier-communication-interview/static/media/interviewPicture.e36439ac228b1e16906a.png",
+    "static/media/logo.svg": "/frontier-communication-interview/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/frontier-communication-interview/index.html",
+    "main.86d45131.css.map": "/frontier-communication-interview/static/css/main.86d45131.css.map",
+    "main.955ececf.js.map": "/frontier-communication-interview/static/js/main.955ececf.js.map",
+    "787.c557e8d4.chunk.js.map": "/frontier-communication-interview/static/js/787.c557e8d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86d45131.css",
+    "static/js/main.955ececf.js"
+  ]
+}
