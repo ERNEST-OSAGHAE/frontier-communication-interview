@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+
+.aList {
+  list-style-type: none;
+  display: flex;
+  width: 100%;
+  padding: 5px;
+  font-size: medium;
+  
+}
+
+.abList{ 
+  width: 90%;
+}
+
+#ListSearch{
+  width: 450px;
+  height: 60%;
+  border-radius: 10px;
+  border-width: 1px;
+}
+
+#ListButton{
+  background-color: rgb(93, 69, 242);
+  color: white;
+  height: 60%;
+  border: none;
+  border-radius: 10px;
+  width: 80%;
+}
+
+
+
+#ListLogo {
+  width: 35%;
+}
+
+#abcList{
+  margin: inherit;
+}
